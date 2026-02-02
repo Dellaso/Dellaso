@@ -1,4 +1,4 @@
-## Hi there 👋 great
+## Hi there 👋 
 
 <!--
 **Dellaso/Dellaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-. 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...just play projects
+- - 🌱 I’m currently learning ...agent, skills, mcp
+
+
+explore how AI changes everything about software development.
