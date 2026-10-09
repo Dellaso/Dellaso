@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...just play projects
 - - 🌱 I’m currently learning ...agent, skills, mcp
 
+## Games
+- 🏀 **[ColorBalls](https://dellaso.github.io/game_balls/)**  - a little game: bomb in colors
+
+
 
 explore how AI changes everything about software development.
