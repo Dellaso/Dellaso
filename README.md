@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## Games
 - 🏀 **[ColorBalls](https://dellaso.github.io/game_balls/)**  - a little game: bomb in colors
 - 🌸 **[FlyFlower](https://sakura-bird-ae05z6sp2ae.qoder.zone/)**  - a little game: find the birds
-
+- 🎈 **[RabbitBalloon](https://dellaso.github.io/RabbitBalloon/)**  - a little game: flying rabbit and balloons
 
 explore how AI changes everything about software development.
