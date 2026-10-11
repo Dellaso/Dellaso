@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on ...just play projects
-- - 🌱 I’m currently learning ...agent
+- 🌱 I’m currently learning ...agent
 
 ## Games
 - 🏀 **[ColorBalls](https://dellaso.github.io/game_balls/)**  - a little game: bomb in colors
